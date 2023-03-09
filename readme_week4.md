@@ -9,6 +9,6 @@ Chương trình tìm kiếm trên linux bao gồm 2 thông số
 ### Run file theo commamd sau:
  >file_scanner [File_name] [Path];
 ### Kết quả:
-![alt](https://imgur.com/zEJ1Xmy)
+![alt text](https://imgur.com/zEJ1Xmy)
 
 
